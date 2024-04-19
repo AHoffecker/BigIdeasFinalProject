@@ -10,7 +10,8 @@ Karina Feindt: khf12@pitt.edu
 
 # Our Datasets
 ## Demographics
-
+https://data.wprdc.org/dataset/pittsburgh-american-community-survey-data-household-types/resource/74deca7d-b398-4137-83d7-553a7162f464
+This sataset includes information about the demographics within the different Pittsburgh neighborhoods.
 ## Arrest Records
 https://data.wprdc.org/dataset/arrest-data
 This dataset includes the data surrounding arrests through 1994-2015.
